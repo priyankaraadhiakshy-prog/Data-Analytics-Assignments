@@ -57,5 +57,6 @@ c. Month extracted using MID — Formula: =MID(A2,4,3) — Applied to J2:J35
 
 Files Included
 
-1. Excel_Assignment_1_Data_Exploration_Completed.xlsx — Completed Excel workbook with all formulas
-2. Data_Analytics_DA_Module_1_Excel_Assignment_1_Screenshots.pdf — Screenshots of all formula cells with results
+1. Excel Assignment 1 - Data Exploration.xlsx — Original assignment file provided by the instructor
+2. Excel_Assignment_1_Data_Exploration_Completed.xlsx — Completed Excel workbook with all formulas
+3. Data_Analytics_DA_Module_1_Excel_Assignment_1_Screenshots.pdf — Screenshots of all formula cells with results
